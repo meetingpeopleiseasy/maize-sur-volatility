@@ -36,7 +36,7 @@
 
 | 阅读顺序 | 材料 | 为什么值得看 |
 | --- | --- | --- |
-| 1 | [研究经历展示 PDF](docs/demonstration_of_research_abilities_v2.pdf) | 两页快速了解研究问题、工作流程与主要判断 |
+| 1 | 研究经历展示 PDF（已作为邮件附件发送） | 两页快速了解研究问题、工作流程与主要判断 |
 | 2 | [研究流程图](results/figures/workflow_diagram.pdf) | 看清库存与价格两条数据支线如何汇合、分析如何分层 |
 | 3 | [SUR 系数图](results/figures/sur_coef_final.pdf) | 一张图看懂系数符号随模型设定翻转 |
 | 4 | [季度主分析脚本](scripts/analysis/ppj_4.py) | 基准回归、阈值、结构断点与样本外比较的实现 |
